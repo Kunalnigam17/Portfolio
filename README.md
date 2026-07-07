@@ -53,7 +53,7 @@ npm start
 
 ## 🌐 Live Demo
 
-🔗 (Add your deployed link here - Netlify/Vercel)
+https://agent-6a4c8566b6951563164f--relaxed-gnome-ccb1c4.netlify.app/
 
 ---
 
