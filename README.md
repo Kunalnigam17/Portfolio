@@ -52,9 +52,7 @@ npm start
 ---
 
 ## 🌐 Live Demo
-
-https://agent-6a4c8566b6951563164f--relaxed-gnome-ccb1c4.netlify.app/
-
+https://portfolio-website-np5p.vercel.app/
 ---
 
 ## 📸 Screenshots
